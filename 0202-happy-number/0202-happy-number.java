@@ -1,7 +1,7 @@
 class Solution {
     public boolean isHappy(int n) 
     {
-        HashSet<Integer> seen = new HashSet<>();
+    HashSet<Integer> seen = new HashSet<>();
     while(n != 1)
     { 
         if(seen.contains(n))
