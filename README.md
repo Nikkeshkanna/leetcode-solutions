@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Nikkeshkanna/leetcode-solutions/tree/master/0202-happy-number) |
+| [0290-word-pattern](https://github.com/Nikkeshkanna/leetcode-solutions/tree/master/0290-word-pattern) |
 ## Math
 |  |
 | ------- |
@@ -38,5 +39,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0290-word-pattern](https://github.com/Nikkeshkanna/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Nikkeshkanna/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 <!---LeetCode Topics End-->
