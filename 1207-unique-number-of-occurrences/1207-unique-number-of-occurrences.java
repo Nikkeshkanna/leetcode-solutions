@@ -3,7 +3,7 @@ class Solution {
     public boolean uniqueOccurrences(int[] arr) 
     {
         HashMap<Integer,Integer> con=new HashMap<>();
-        ArrayList<Integer> word=new ArrayList<>();
+        HashSet<Integer> freq = new HashSet<>();
         for(int x:arr)
         {
             if(!con.containsKey(x))
@@ -15,8 +15,10 @@ class Solution {
         }
         for(Integer e:con.values())
         {
-            if(word.contains(e)) return false;
-            else word.add(e);
+            if(!freq.add(e))
+            {
+                return false;
+            }
         }
         return true;
     }
