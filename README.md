@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/Nikkeshkanna/leetcode-solutions/tree/master/0202-happy-number) |
 | [0290-word-pattern](https://github.com/Nikkeshkanna/leetcode-solutions/tree/master/0290-word-pattern) |
+| [0409-longest-palindrome](https://github.com/Nikkeshkanna/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [1207-unique-number-of-occurrences](https://github.com/Nikkeshkanna/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 ## Math
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Nikkeshkanna/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0290-word-pattern](https://github.com/Nikkeshkanna/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Nikkeshkanna/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0409-longest-palindrome](https://github.com/Nikkeshkanna/leetcode-solutions/tree/master/0409-longest-palindrome) |
 ## Stack
 |  |
 | ------- |
@@ -52,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nikkeshkanna/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/Nikkeshkanna/leetcode-solutions/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->
