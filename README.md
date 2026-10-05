@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Nikkeshkanna/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Nikkeshkanna/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nikkeshkanna/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0367-valid-perfect-square](https://github.com/Nikkeshkanna/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Nikkeshkanna/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0202-happy-number](https://github.com/Nikkeshkanna/leetcode-solutions/tree/master/0202-happy-number) |
+| [0367-valid-perfect-square](https://github.com/Nikkeshkanna/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 ## Two Pointers
 |  |
 | ------- |
